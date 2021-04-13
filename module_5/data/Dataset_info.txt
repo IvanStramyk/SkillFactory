@@ -1,0 +1,2 @@
+По скольку файл датасета очень большой - 750 МБ, я залил его в публичный доступ на кагл - качайте здесь https://www.kaggle.com/ivanstramyk/autoru
+Сам ноутбук размещен здесь https://www.kaggle.com/ivanstramyk/ivan-stramyk-ds-32-sf-dst-car-price-prediction
